@@ -33,7 +33,16 @@ set4:
 		secondinput:'5',
 			result:'10'
 
+},
+
+set5:
+{
+	firstinput:'15',
+		secondinput:'5',
+			result:'20'
+
 }
+
 
 
 
