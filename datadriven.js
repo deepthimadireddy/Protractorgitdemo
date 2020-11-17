@@ -26,6 +26,13 @@ set3:
 		secondinput:'4',
 			result:'10'
 
+},
+set4:
+{
+	firstinput:'5',
+		secondinput:'5',
+			result:'10'
+
 }
 
 
