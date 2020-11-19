@@ -3,7 +3,7 @@ describe ('Chain locators ',function(){
 	it('Repeator locator',function(){
 		
 		browser.get('http://juliemr.github.io/protractor-demo');
-		element(by.model('first')).sendKeys(4);
+		element(by.model('first')).sendKeys(12);
 	    element(by.model('second')).sendKeys(12);
 	  element(by.id('gobutton')).click();
 	  // when no locator is found use locator css and syntax is 'tagname[attribute="value"]'

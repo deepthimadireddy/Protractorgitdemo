@@ -49,6 +49,14 @@ set6:
 		secondinput:'15',
 			result:'20'
 
+},
+
+set7:
+{
+	firstinput:'75',
+		secondinput:'15',
+			result:'90'
+
 }
 
 

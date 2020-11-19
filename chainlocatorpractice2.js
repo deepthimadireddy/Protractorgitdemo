@@ -20,6 +20,7 @@ describe('operator', function() {
     	
     	Calc(16,8,'ADDITION')
     	Calc(5,6,'MULTIPLICATION')
+    	Calc(8,6,'SUBSTRACTION')
    
     	
     	
